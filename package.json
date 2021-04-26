@@ -1,0 +1,33 @@
+{
+  "name": "THP_bundle",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "webpack --config webpack.config.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/volpito/THP_bundle.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/volpito/THP_bundle/issues"
+  },
+  "homepage": "https://github.com/volpito/THP_bundle#readme",
+  "devDependencies": {
+    "@babel/core": "^7.13.16",
+    "@babel/preset-env": "^7.13.15",
+    "babel-loader": "^8.2.2",
+    "css-loader": "^5.2.4",
+    "file-loader": "^6.2.0",
+    "mini-css-extract-plugin": "^1.5.0",
+    "postcss-loader": "^5.2.0",
+    "sass": "^1.32.11",
+    "sass-loader": "^11.0.1",
+    "webpack": "^5.35.1",
+    "webpack-cli": "^4.6.0"
+  }
+}

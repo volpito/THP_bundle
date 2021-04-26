@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "Big Noodles";
+  src: url(fonts/e2ebffa44fbb63381589b4c62164a7a7.ttf);
+}
+p {
+  color: #ff1414;
+  font-family: "Big Noodles";
+}
+
+body {
+  background-image: url(images/93d2c9491c6c89b9d72194ee7783986c.jpg);
+}
